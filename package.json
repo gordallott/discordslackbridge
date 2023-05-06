@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "discord.js": "^11.5.1",
-    "@slack/webhook": "^5.0.0"
+    "@slack/webhook": "^5.0.4"
   }
 }
